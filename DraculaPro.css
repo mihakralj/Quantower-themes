@@ -1,0 +1,54 @@
+:root {
+--primaryBGColor: #263340;
+--secondaryBGColor: #0B0D0F;
+--middleBGColor: #3C5166;
+--primaryBorderColor: #414D58;
+--secondaryBorderColor: #666666;
+--primaryTextColor: #F8F8F2;
+
+--secondaryTextColor: #ABABA7;
+--activeTextColor: #FFFFFF;
+--accentTextColor: #FFCA80;
+--disabledTextColor: #666666;
+--infoColor: #45FEDD;
+
+--dangerColor: #FF9580;
+--warningColor: #FEFE00;
+--successColor: #8AFF80;
+--successHoverColor: #45FEDD;
+--accentColor: #6545FE;
+--accentHoverColor: #FDF2D0;
+--buyColor: #8AFF80;
+
+--buyColorHover: #A2FF99;
+--buyColorActive: #A2FF99;
+--sellColor: #FF9580;
+--sellColorHover: #FFAA99;
+--sellColorActive: #FFAA99;
+--statusWarningColor: #FEFE00;
+
+--statusActiveColor: #00CC00;
+--contextMenuBGColor: #414D58;
+
+--contextMenuBGHoverColor: #666666;
+--contextMenuTextColor: #F8F8F2;
+--contextMenuTextDisabledColor: #999999;
+--windowBGColor: #0B0D0F;
+
+--windowBorderExternalColor: #0B0D0F;
+--windowBorderInternalColor: #414D58;
+--windowBorderFocusedColor: #3C5166;
+--link1Color: #9580FF;
+
+--link2Color: #FF9580;
+--link3Color: #FF80BF;
+--link4Color: #FFFF80;
+--link5Color: #8AFF80;
+--panelsBinds: #FF80BF;
+
+--panelsAnalytics: #9580FF;
+--panelsTrading: #80FFEA;
+--panelsPortfolio: #FFFF80;
+--panelsInformational: #FF9580;
+--panelsMisc: #8AFF80;
+}

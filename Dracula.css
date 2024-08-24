@@ -1,0 +1,54 @@
+:root {
+--primaryBGColor: #44475A;
+--secondaryBGColor: #282A36;
+--middleBGColor: #44475A;
+--primaryBorderColor: #6272A4;
+--secondaryBorderColor: #6272A4;
+--primaryTextColor: #F8F8F2;
+
+--secondaryTextColor: #6272A4;
+--activeTextColor: #F8F8F2;
+--accentTextColor: #8BE9FD;
+--disabledTextColor: #6272A4;
+--infoColor: #8BE9FD;
+
+--dangerColor: #FF5555;
+--warningColor: #F1FA8C;
+--successColor: #50FA7B;
+--successHoverColor: #8BE9FD;
+--accentColor: #BD93F9;
+--accentHoverColor: #8BE9FD;
+--buyColor: #50FA7B;
+
+--buyColorHover: #8BE9FD;
+--buyColorActive: #50FA7B;
+--sellColor: #FF5555;
+--sellColorHover: #FFB86C;
+--sellColorActive: #FF5555;
+--statusWarningColor: #F1FA8C;
+
+--statusActiveColor: #50FA7B;
+--contextMenuBGColor: #44475A;
+
+--contextMenuBGHoverColor: #6272A4;
+--contextMenuTextColor: #F8F8F2;
+--contextMenuTextDisabledColor: #6272A4;
+--windowBGColor: #282A36;
+
+--windowBorderExternalColor: #282A36;
+--windowBorderInternalColor: #6272A4;
+--windowBorderFocusedColor: #BD93F9;
+--link1Color: #FF5555;
+
+--link2Color: #8BE9FD;
+--link3Color: #50FA7B;
+--link4Color: #F1FA8C;
+--link5Color: #FF79C6;
+--panelsBinds: #8BE9FD;
+
+--panelsAnalytics: #BD93F9;
+--panelsTrading: #50FA7B;
+--panelsPortfolio: #F1FA8C;
+--panelsInformational: #FFB86C;
+--panelsMisc: #FF79C6;
+}

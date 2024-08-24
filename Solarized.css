@@ -1,0 +1,57 @@
+/* Solarized dark theme for Quantower*/
+/* copy into <quantower>/Settings/Themes/Solarized/css/colors.css */
+
+:root {
+--primaryBGColor: #002B36;
+--secondaryBGColor: #073642;
+--middleBGColor: #586E75;
+--primaryBorderColor: #839496;
+--secondaryBorderColor: #93A1A1;
+--primaryTextColor: #FDF6E3;
+
+--secondaryTextColor: #EEE8D5;
+--activeTextColor: #93A1A1;
+--accentTextColor: #FDF6E3;
+--disabledTextColor: #586E75;
+--infoColor: #2FA2BE;
+
+--dangerColor: #DC4141;
+--warningColor: #958F00;
+--successColor: #009249;
+--successHoverColor: #00A854;
+--accentColor: #4AA9FF;
+--accentHoverColor: #2A81D0;
+--buyColor: #859900;
+
+--buyColorHover: #C7E500;
+--buyColorActive: #C7E500;
+--sellColor: #DC322F;
+--sellColorHover: #FF5436;
+--sellColorActive: #FF5436;
+--statusWarningColor: #B58900;
+
+--statusActiveColor: #CB4B16;
+--contextMenuBGColor: #073642;
+
+--contextMenuBGHoverColor: #657B83;
+--contextMenuTextColor: #FFFFFF;
+--contextMenuTextDisabledColor: #839496;
+--windowBGColor: #E8EAED;
+
+--windowBorderExternalColor: #B3C0D7;
+--windowBorderInternalColor: #8F94A3;
+--windowBorderFocusedColor: #E8EAED;
+--link1Color: #DC322F;
+
+--link2Color: #268BD2;
+--link3Color: #2AA198;
+--link4Color: #D33682;
+--link5Color: #6C71C4;
+--panelsBinds: #DC322F;
+
+--panelsAnalytics: #268BD2;
+--panelsTrading: #2AA198;
+--panelsPortfolio: #D33682;
+--panelsInformational: #6C71C4;
+--panelsMisc: #CB4B16;
+}
