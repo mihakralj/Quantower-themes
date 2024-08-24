@@ -3,6 +3,19 @@ Hey there, intrepid trader! 🌟 Tired of staring at the same ol' screen all day
 
 Let's dive into how you can install these themes and give your trading experience a fresh coat of paint!
 
+## 📸 Theme Previews
+Get a sneak peek of what each theme looks like before you dive in! Here are the images for each theme:
+
+**Dracula**: Classic and cool, with a purplish undertone that whispers “I stay up late... trading.”
+![image](https://github.com/user-attachments/assets/6cc8c942-b1de-45f2-98c0-70f3bd357913)
+
+**DraculaPro**: For those who want their trading screen to feel like it’s been dipped in midnight oil.
+![image](https://github.com/user-attachments/assets/a089fc26-d3c5-421f-9b51-5f3bd0bc416f)
+
+**Solarized**: A soft, balanced palette that keeps your eyes fresh, even when the market is burning.
+![image](https://github.com/user-attachments/assets/e7c71f6e-3066-4501-90e2-3e2f28625b78)
+
+
 ## 📂 Theme Installation Guide
 
 ### 1. Choose Your Theme
@@ -35,20 +48,6 @@ Now let’s get into the nuts and bolts. Here’s the roadmap:
   
 7. Start Quantower, go to the first settings page and pick your new theme - should be visible at the top of settings pane. Voilà! You've just given your Quantower a shiny new coat of paint.
 ![image](https://github.com/user-attachments/assets/37b54c5a-5ed0-4f39-959f-4fab50aa93e2)
-
-## 📸 Theme Previews
-Get a sneak peek of what each theme looks like before you dive in! Here are the images for each theme:
-
-**Dracula**: Classic and cool, with a purplish undertone that whispers “I stay up late... trading.”
-![image](https://github.com/user-attachments/assets/48963359-8566-4ffb-88b0-21a0ca83651b)
-
-
-**DraculaPro**: For those who want their trading screen to feel like it’s been dipped in midnight oil.
-![image](https://github.com/user-attachments/assets/a089fc26-d3c5-421f-9b51-5f3bd0bc416f)
-
-
-**Solarized**: A soft, balanced palette that keeps your eyes fresh, even when the market is burning.
-![image](https://github.com/user-attachments/assets/e7c71f6e-3066-4501-90e2-3e2f28625b78)
 
 
 ## 🛠 Troubleshooting
